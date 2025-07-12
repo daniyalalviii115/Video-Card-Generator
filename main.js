@@ -42,6 +42,3 @@ function handleAddCard() {
 
 
 
-// document.addEventListener("DOMContentLoaded", function () {
-//   document.getElementById("addBtn").addEventListener("click", handleAddCard);
-// });
